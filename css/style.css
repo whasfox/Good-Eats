@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+.permanent{
+	font-family: 'Permanent Marker', cursive;
+}
+.special{
+	font-family: 'Special Elite', cursive;
+}
+.nosifer{
+	font-family: 'Nosifer', cursive;
+}
+.section{
+	padding: 40px 0;
+}
+#logo, #promo{
+	background-color: #182a42;
+}
+
+#promo{
+	color: #fff;
+	font-family: "manage";
+	text-align: center;
+}
+
+#promo h2{
+	font-size: 60px;
+	letter-spacing: 2px;
+}
+
+#promo .borde1{
+	border:3px solid #FFFFFF;
+	border-radius: 10%;	
+}
+
+.btn-default{
+	background: #ff4816;
+	color:#FFFFFF !important;
+	padding: 17px 45px !important;
+	font-size: 50px;
+	border: 0px;
+	font-weight: 600 !important;
+	transition: all 0.3s ease-in-out;
+}
+
+#promo h3{
+	padding-top: 50px;
+	padding-bottom: 20px;
+	font-size: 50px;
+}
+
+#promo p{
+	font-size: 25px;
+	padding: 20px;
+	text-align: center;	
+	letter-spacing: 2px;
+}
+p.permanent{
+	padding-top: 15px!important;
+	text-align: center;
+	font-size: 30px!important;
+}
+#packs{
+	background-color: rgba(255,136,41,1.00);
+	text-align: center;
+	
+}
+.ichi{
+	padding-top: 35px;
+	background-color: rgba(221,119,38,1.00);
+}
+.ni{
+	padding-top: 35px;
+	background-color: rgba(185,100,32,1.00);
+}
+.san{
+	padding-top: 35px;
+	background-color: rgba(159,86,27,1.00);
+}
+#packs h2{
+	padding: 20px 0;
+	font-size: 50px;
+	color: #fff;
+}
+.btn-img{
+	transition: all 0.3s ease-in-out;
+}
+.btn-img:hover{
+	transform: scale(1.2);
+	transition: all 0.3s ease-in-out;
+}
+.bola{
+	border-radius: 100%;
+}
+#suscripcion{
+	text-align: center;
+	background-color: #FD481D;
+}
+#suscripcion h3{
+	font-size: 30px;
+}
+#suscripcion a{
+	background-color: rgba(255,136,41,1.00);
+	padding: 75px 20px;
+	border-radius: 100%;
+	border: 0;
+	transition: all 0.3s ease-in-out;
+	
+}
+#suscripcion a:hover{
+	transform: scale(0.9);
+	transition: all 0.3s ease-in-out;
+	background-color: rgba(0,40,137,1.00)
+}
+#first{
+	background-color: #000000;
+	align-content: center;
+	text-align: center;
+	color: #FFFFFF;
+}
+.icono img{
+	
+	align-content: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+#second{
+	background-color: #FD481D;
+	align-content: center;
+	text-align: center;
+}
+#second h1{
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 40px;	
+}
+.text{
+	padding: 20px;
+}
+#second h4{
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#second h6{
+	margin-top: 30px;
+}
+#second h6{
+	font-weight: 300;
+	font-size: 14px;
+}
+#hamburger{
+	color: #FFFFFF;
+	background-image: url("../img/Receta-de-pan-para-hamburguesas-1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding:10%;
+	text-align: center;
+}
+#hamburger h1{
+	font-size: 90px;
+}
+#hamburger h4{
+	margin-top: 70px;
+}
+#foot {
+	background-color: #182A42;
+	color: #FFFFFF;
+	padding: 20px 6px;
+	font-size: 20px;
+	align-items: center;
+}
+#foot a{
+	color: ##F6F4F3;
+}
